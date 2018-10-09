@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1539010663 source:c:\users\alumno\desktop\veronica.bustos.1a\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+
+1539005118 source:c:\users\alumno\desktop\veronica.bustos.1a\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"utn.h"
+
+1539010670 source:c:\users\alumno\desktop\veronica.bustos.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539002218 source:c:\users\alumno\desktop\veronica.bustos.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1539006446 source:c:\users\alumno\desktop\veronica.bustos.1a\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juegos.h"
+	"utn.h"
+
+1539006441 c:\users\alumno\desktop\veronica.bustos.1a\juegos.h
+
+1539002218 c:\users\alumno\desktop\veronica.bustos.1a\utn.h
+
+1539006516 c:\users\alumno\desktop\veronica.bustos.1a\clientes.h
+	"utn.h"
+
+1539008855 c:\users\alumno\desktop\veronica.bustos.1a\alquileres.h
+	"alquileres.h"
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+
+1539118892 source:c:\users\fvg\desktop\ejercicio_en_clase-master\veronica.bustos.1a\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+
+1538996264 c:\users\fvg\desktop\ejercicio_en_clase-master\veronica.bustos.1a\alquileres.h
+	"alquileres.h"
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+
+1539116308 c:\users\fvg\desktop\ejercicio_en_clase-master\veronica.bustos.1a\utn.h
+
+1538996264 c:\users\fvg\desktop\ejercicio_en_clase-master\veronica.bustos.1a\clientes.h
+	"utn.h"
+
+1538996264 c:\users\fvg\desktop\ejercicio_en_clase-master\veronica.bustos.1a\juegos.h
+
+1539116328 source:c:\users\fvg\desktop\ejercicio_en_clase-master\veronica.bustos.1a\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"utn.h"
+
+1538996264 source:c:\users\fvg\desktop\ejercicio_en_clase-master\veronica.bustos.1a\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juegos.h"
+	"utn.h"
+
+1539111268 source:c:\users\fvg\desktop\ejercicio_en_clase-master\veronica.bustos.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539116308 source:c:\users\fvg\desktop\ejercicio_en_clase-master\veronica.bustos.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
