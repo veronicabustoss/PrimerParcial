@@ -138,7 +138,7 @@ int agregarJuego(eJuegos* lista, int len)
     {
         if(lugarLibre != -1)
         {
-            getValidString("Ingrese descripcion del Juego: ", "Error, ingrese nuevamente.", auxiliarJuegos.descripcion);//arreglar lo de los espacios
+            getSuperAlfaNumerico("Ingrese descripcion del Juego: ", "Error, ingrese nuevamente.", auxiliarJuegos.descripcion);//arreglar lo de los espacios
             auxiliarJuegos.importe = getValidFloat("Ingrese importe del juego: ", "Error, ingrese nuevamente.", 1, 10000);
             auxiliarJuegos.codigoJuego = generarNextId();
             auxiliarJuegos.isEmpty=0;
