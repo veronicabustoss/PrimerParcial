@@ -24,3 +24,8 @@ void cleanStdin(void);
 float getValidFloat(char requestMessage[],char errorMessage[], int lowLimit, int hiLimit);
 
 char getValidSexo( char requestMessage[], char* input);
+
+int esSoloLetrasYNumeros(char str[]);
+void getStringConEspacio(char mensaje[],char input[]);
+void getSuperAlfaNumerico(char requestMessage[],char errorMessage[], char input[]);
+
